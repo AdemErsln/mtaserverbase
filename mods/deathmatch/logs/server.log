@@ -1,0 +1,73 @@
+==================================================================
+= Multi Theft Auto: San Andreas v1.6 [arm64]
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..linux_arm64/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[24-05-27 13:24:11] File 'settings.xml' not present, creating new node.
+[24-05-27 13:24:11] Resource 'ip2c' requests some acl rights. Use the command 'aclrequest list ip2c'
+[24-05-27 13:24:11] ERROR: Couldn't find meta.xml file for resource 'mtasa-resources-latest'
+[24-05-27 13:24:11] Loading of resource 'mtasa-resources-latest' failed
+[24-05-27 13:24:11] Resource 'runcode' requests some acl rights. Use the command 'aclrequest list runcode'
+[24-05-27 13:24:11] ERROR: Problem with resource: mtasa-resources-latest; Couldn't find meta.xml file for resource 'mtasa-resources-latest'
+[24-05-27 13:24:11] Resources: 198 loaded, 1 failed
+[24-05-27 13:24:11] Starting resources...
+[24-05-27 13:24:12] Admin access list successfully updated 
+[24-05-27 13:24:12] INFO: Admin added 530 missing rights
+[24-05-27 13:24:12] Server minclientversion is now 1.5.9-9.20957.0
+[24-05-27 13:24:12] startResource: Resource 'ip2c' started
+[24-05-27 13:24:12] Gamemode 'play' started.
+[24-05-27 13:24:12] Querying MTA master server... success! (Auto detected IP:130.61.221.29)
+[24-05-27 13:24:12] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[24-05-27 13:24:12] WARNING: <owner_email_address> not set
+[24-05-27 13:24:12] Server started and is ready to accept connections!
+[24-05-27 13:24:12] To stop the server, type 'shutdown' or press Ctrl-C
+[24-05-27 13:24:12] Type 'help' for a list of commands.
+[24-05-27 13:24:13] INFO: IpToCountry file not found, successfully copied from backup
+[24-05-27 13:24:13] WARNING: [admin]/ip2c/server.lua:230: Access denied @ 'fetchRemote'
+[24-05-27 13:24:28] Server stopped!
+[24-05-27 13:24:28] Stopping resources........................
+[24-05-27 13:24:28] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.6 [arm64]
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..linux_arm64/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[24-05-27 13:25:29] Compacting accounts database 'internal.db' ...
+[24-05-27 13:25:29] Resource 'ip2c' requests some acl rights. Use the command 'aclrequest list ip2c'
+[24-05-27 13:25:29] ERROR: Couldn't find meta.xml file for resource 'mtasa-resources-latest'
+[24-05-27 13:25:29] Loading of resource 'mtasa-resources-latest' failed
+[24-05-27 13:25:29] Resource 'runcode' requests some acl rights. Use the command 'aclrequest list runcode'
+[24-05-27 13:25:29] ERROR: Problem with resource: mtasa-resources-latest; Couldn't find meta.xml file for resource 'mtasa-resources-latest'
+[24-05-27 13:25:29] Resources: 198 loaded, 1 failed
+[24-05-27 13:25:29] Compacting database 'registry.db' ...
+[24-05-27 13:25:29] Starting resources...
+[24-05-27 13:25:29] Server minclientversion is now 1.6.0-9.22388.0
+[24-05-27 13:25:29] startResource: Resource 'ip2c' started
+[24-05-27 13:25:29] Gamemode 'play' started.
+[24-05-27 13:25:29] Querying MTA master server... success! (Auto detected IP:130.61.221.29)
+[24-05-27 13:25:29] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[24-05-27 13:25:29] WARNING: <owner_email_address> not set
+[24-05-27 13:25:29] Server started and is ready to accept connections!
+[24-05-27 13:25:29] To stop the server, type 'shutdown' or press Ctrl-C
+[24-05-27 13:25:29] Type 'help' for a list of commands.
+[24-05-27 13:26:06] CONNECT: AnnoyedHoodlum61 connected (IP: 92.45.29.8  Serial: 6FE2FD6360BCD42197F1C7D07840F8A2  Version: 1.6.0-9.22388.0)
+[24-05-27 13:26:08] JOIN: AnnoyedHoodlum61 joined the game (IP: 92.45.29.8)
+[24-05-27 13:26:18] LOGIN: AnnoyedHoodlum61 tried to log in as 'warss78' (Unknown account) (IP: 92.45.29.8  Serial: 6FE2FD6360BCD42197F1C7D07840F8A2)
+[24-05-27 13:26:22] ACCOUNTS: AnnoyedHoodlum61 registered account 'warss78' (IP: 92.45.29.8  Serial: 6FE2FD6360BCD42197F1C7D07840F8A2)
+[24-05-27 13:26:26] LOGIN: (Everyone, Console) AnnoyedHoodlum61 successfully logged in as 'warss78' (IP: 92.45.29.8  Serial: 6FE2FD6360BCD42197F1C7D07840F8A2)
